@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="ZipFile.h" />
+    <ClInclude Include="ZipUtils.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ZipFile.cpp" />
+    <ClCompile Include="ZipUtils.cpp" />
+  </ItemGroup>
+</Project>
